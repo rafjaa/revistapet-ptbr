@@ -1,0 +1,22 @@
+Projeto de tradução da resvista *PET: Python Entre Todos - ISSN 1853-2071*, mantida pela comunidade Python Argentina - `PyAr`.
+
+*Este projeto foi migrado do GoogleCode para o GitHub*
+
+http://revista.python.org.ar
+
+Esta é a primeira etapa do projeto para tornar a revista aberta a uma chamada global de artigos, em espanhol, inglês e português.
+
+===Primeira edição (tradução concluída)===
+  * Editorial: _PET First Shot_
+  * Como você pode contribuir com a PET
+  * `PyAr`, A História
+  * _from gc import commonsense - Finish Him!_
+  * Concorrência Indolor: O módulo _multiprocessing_
+  * Introdução aos Testes Unitários com Python
+  * _Taint Mode_ em Python
+  * Dinamismo Aplicado
+  * Decorando código (Parte 1)
+  * `Web2Py` para Todos
+  * Como esta revista é feita?
+  * Desafio PET
+  * Um pouco de xkcd
