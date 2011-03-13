@@ -1,4 +1,4 @@
-Projeto de tradução da resvista _PET: Python Entre Todos - ISSN 1853-2071_, mantida pela comunidade Python Argentina - PyAr.
+Projeto de tradução da resvista **PET: Python Entre Todos - ISSN 1853-2071**, mantida pela comunidade Python Argentina - PyAr.
 
 [http://revista.python.org.ar](http://revista.python.org.ar)
 
