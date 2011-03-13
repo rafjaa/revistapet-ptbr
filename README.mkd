@@ -1,11 +1,11 @@
-Projeto de tradução da resvista *PET: Python Entre Todos - ISSN 1853-2071*, mantida pela comunidade Python Argentina - PyAr.
+Projeto de tradução da resvista _PET: Python Entre Todos - ISSN 1853-2071_, mantida pela comunidade Python Argentina - PyAr.
 
 [http://revista.python.org.ar](http://revista.python.org.ar)
 
 Esta é a primeira etapa do projeto para tornar a revista aberta a uma chamada global de artigos, em espanhol, inglês e português.
 
 Primeira edição (tradução concluída)
-====================================
+------------------------------------
 * Editorial: PET First Shot
 * Como você pode contribuir com a PET
 * PyAr, A História
@@ -19,6 +19,3 @@ Primeira edição (tradução concluída)
 * Como esta revista é feita?
 * Desafio PET
 * Um pouco de xkcd
-
-Este projeto foi migrado do GoogleCode para o GitHub
-----------------------------------------------------
